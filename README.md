@@ -1,16 +1,25 @@
-### Hi there 👋
+# tiagoceles
 
-<!--
-**tiagoceles/tiagoceles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Análise e Desenvolvimento de Sistemas | JavaScript | Java Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentais em HTML, CSS, Java e JavaScript, Banco de Dados além de conhecimentos acadêmicos nas linguagens C e Python. Atualmente em busca de colocação no mercado de tecnologia para ingressar na carreira de desenvolvedor.
 
-Here are some ideas to get you started:
+# 📦Conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento Back-end com JavaScript, Java, Python e C.
+- Desenvolvimento Front-end com HTML5, CSS3 e JavaScript.
+
+# 📫 Formação 
+
+- **UNASP**- Análise e Desenvolvimento de Sistemas.(Trancado 4º semestre).
+- **Fundação Bradesco**- Introdução à Programação Orientada a Objetos (POO).
+- **Fundação Bradesco**- HTML5 e CSS3 do Básico ao Avançado.
+- **Fundação Bradesco**- Introdução a Redes de Computadores.
+ 
+# 🌱 Aprendendo
+- Java
+- MYSQL
+- NODE.JS
+
+# 📫 Contato
+
+- [Linkedin](https://www.linkedin.com/in/tiago-souza-celes-bba73a189/).
+- Gmail - tiagosouzaceles@gmail.com
